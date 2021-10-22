@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm **Geraldo Mendes**</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geraldomendes" alt="geraldomendes" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
+
 
 - 🔭 Atualmente estou trabalhando na PMSJP
 - 🌱 Atualmente estou aprendendo programar
