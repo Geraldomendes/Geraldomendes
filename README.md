@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
+Meu nome é **Geraldo Mendes**, sou Engenheiro Civil e atualmente graduando em Análise e Desenvolvimento de Softwares, também sou técnico em Informática e técnico em Edificações
 
-- 🔭 Atualmente estou trabalhando na PMSJP
-- 🌱 Atualmente estou aprendendo programar
+- 🔭 Atualmente trabalho na PMSJP
+- 🌱 Atualmente estou aprendendo desenvolver softwares
 - 📫 Como chegar até mim: **geraldomendes.eng@gmail.com**
 - ⚡ Curiosidade: Tecnologia
 
