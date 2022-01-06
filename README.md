@@ -1,10 +1,10 @@
 <h1 align="center">Hi !!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 <h4 align="center">Meu nome é Geraldo Mendes, sou Engenheiro Civil e atualmente graduando em Análise e Desenvolvimento de Softwares. </h4>
 
-- 🔭 Atualmente trabalho na PMSJP
+- 👷‍♂ Engenheiro Civil 
+- 💼 Atualmente trabalho na PMSJP
 - 🌱 Estou aprendendo a desenvolver softwares XD
-- 📫 Como chegar até mim: **geraldomendes.eng@gmail.com**
-- ⚡ Curiosidade: Tecnologia
+- 📫 Contate-me no e-mail: **geraldomendes.eng@gmail.com**
 
 
 <p align="center">
