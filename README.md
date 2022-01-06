@@ -2,7 +2,7 @@
 <h4 align="center">Meu nome é Geraldo Mendes, sou Engenheiro Civil e atualmente graduando em Análise e Desenvolvimento de Softwares. </h4>
 
 - 🔭 Atualmente trabalho na PMSJP
-- 🌱 Atualmente estou aprendendo a desenvolver softwares
+- 🌱 Estou aprendendo a desenvolver softwares XD
 - 📫 Como chegar até mim: **geraldomendes.eng@gmail.com**
 - ⚡ Curiosidade: Tecnologia
 
