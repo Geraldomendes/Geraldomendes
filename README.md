@@ -1,5 +1,5 @@
 <h1 align="center">Olá !!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
-<h4 align="center">Meu nome é Geraldo Mendes, e atualmente sou graduando em Análise e Desenvolvimento de Softwares. </h4>
+<h4 align="center">Meu nome é Geraldo Mendes, e atualmente sou graduando em Análise e Desenvolvimento de Sistemas. </h4>
 
 - 👷‍♂ Sou Engenheiro Civil 
 - 💼 Atualmente trabalho como na PMSJP
