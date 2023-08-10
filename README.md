@@ -2,7 +2,7 @@
 <h4 align="center">Meu nome é Geraldo Mendes, e atualmente sou graduando em Análise e Desenvolvimento de Sistemas. </h4>
 
 - 👷‍♂ Sou Engenheiro Civil 
-- 🌱 Estou aprendendo a desenvolver softwares XD
+- 🧑🏻‍💻 Estou estudando pra ser um cientista de dados XD
 - 📫 Contate-me no e-mail: **geraldomendes.eng@gmail.com**
 
 
